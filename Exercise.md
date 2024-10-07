@@ -1,6 +1,6 @@
 Lab 1:
 ![image](https://github.com/user-attachments/assets/a4b28fea-9c4a-49f9-b27c-41d34b0a8a92)
-Lab 2:
+\nLab 2:
 ![image](https://github.com/user-attachments/assets/3d6a740e-563c-4ce0-9823-e00c055b2a2c)
 
 Lab 3: Считать текст из файла. Найти в нем наибольшее количество цифр, идущих подряд. Если цифр не найдено – ввести об этом сообщение.
